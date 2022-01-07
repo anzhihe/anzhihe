@@ -1,14 +1,20 @@
-### Hello World! 👋
+### Hey there，I'm anzhihe. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)              
+<br />
 
+- 🤖 I’m currently a SRE working in Beijing, China.
+- 👨‍💻 I’m currently learning Golang，Python，JS & TS、Vue、React，etc...
+- ✍️ [MyBlog](https://chegva.com)
+- 🤔 I’m looking for help with Golang or Java development.
+- 
+<h6> 🤔 打工是不可能的，这辈子不可能打工的！</h6>
 <!--
 **anzhihe/anzhihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)  
