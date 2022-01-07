@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
+
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)              
 
 <!--
 **anzhihe/anzhihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
