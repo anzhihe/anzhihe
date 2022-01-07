@@ -22,6 +22,8 @@
 |![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)  
+
 <!--
 **anzhihe/anzhihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +41,5 @@ Here are some ideas to get you started:
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=anzhihe&show_icons=true&theme=gotham" alt="anzhihe" />
 
 -->
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)  
+
+
