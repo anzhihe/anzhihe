@@ -3,6 +3,7 @@
 - 🤖 I’m currently a SRE working in Beijing, China.
 - 👨‍💻 I’m currently learning Golang，Python，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
+- 📫 reach me: [email](mailto:anzhihe@foxmail.com)
 
 <h6> 🤔 打工是不可能的，这辈子不可能打工的！</h6>
 <!--
