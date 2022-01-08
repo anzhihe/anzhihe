@@ -9,7 +9,7 @@
 - 👨‍💻 I’m currently learning Golang，Python，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
 - 💬 Ask me about Anything you want~
-- 📫  reach me: [email](mailto:anzhihe@foxmail.com)
+- 📫 Reach me: [email](mailto:anzhihe@foxmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
