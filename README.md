@@ -13,7 +13,7 @@
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
-**「Stay hungry. Stay foolish.」** ❤️ 
+**「Stay hungry，Stay foolish.」** ❤️ 
 
 <hr/>
 
