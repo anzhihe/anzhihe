@@ -6,7 +6,7 @@
 <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300" align="right">
 
 - 🤖 I’m currently a SRE working in Beijing, China.
-- 👨‍💻 I’m currently learning Golang，Python，Cloud Native，JS & TS、Vue、React，etc...
+- 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:anzhihe@foxmail.com)
