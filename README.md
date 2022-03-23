@@ -13,33 +13,29 @@
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
-**「Stay hungry，Stay foolish.」** ❤️ 
+**「Stay hungry，Stay foolish.」** ❤️
 
 <hr/>
 
 🏆 **my github stats:**
-  
+
 |![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)  
+<table>
+<tr>
+<td valign="top"  width="50%">
+#### ✏️ [Recent Blog](https://chegva.com)
 
-<!--
-**anzhihe/anzhihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=anzhihe&show_icons=true&theme=gotham" alt="anzhihe" />
-
--->
-
-
+- [工程师应该怎么学习 - 2022-03-22](https://chegva.com/5195.html)
+- [世界500强常用的11个管理法则 - 2022-03-21](https://chegva.com/4678.html)
+- [Web前端学习资源分享 - 2022-03-17](https://chegva.com/5190.html)
+- [GoLand快捷键大全及实用技巧 - 2022-03-13](https://chegva.com/5183.html)
+- [快速初始化gin web项目 - 2022-03-12](https://chegva.com/5180.html)
+</td>
+<td valign="top"  width="50%">
+#### 🐍 contributions:
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
+</td>
+</tr>
+</table>
