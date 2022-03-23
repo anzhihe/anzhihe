@@ -30,9 +30,9 @@
 - [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
 {{- end}}
 </td>
+<td valign="top"  width="50%">
+#### 🐍 contributions:
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
+</td>
 </tr>
 </table>
-
-<!--
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
--->
