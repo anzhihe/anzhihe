@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td valign="top"  width="51%">
+<td valign="top"  width="58%">
   
 #### ✏️ [Recent Blog](https://chegva.com)
 
@@ -35,7 +35,7 @@
 - [快速初始化gin web项目 - 2022-03-12](https://chegva.com/5180.html)
   
 </td>
-<td valign="top"  width="49%">
+<td valign="top"  width="42%">
   
 #### 🐍 contributions:
   
