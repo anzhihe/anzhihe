@@ -26,17 +26,17 @@
 <tr>
 <td valign="top"  width="58%">
 
-#### ✏️ [Recent Blog](https://chegva.com)
-{{ range $index, $item := $.Articles}}
-- [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
-{{- end}}
+#### 🐍 Contributions:
+
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 </td>
 <td valign="top"  width="42%">
 
-#### 🐍 contributions:
-
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
+#### ✏️ [Recent Blog](https://chegva.com)
+{{ range $index, $item := $.Articles}}
+- [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
+{{- end}}
 
 </td>
 </tr>
