@@ -26,7 +26,7 @@
 <tr>
 <td valign="top"  width="58%">
 
-#### 🐍 Contributions:
+#### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
