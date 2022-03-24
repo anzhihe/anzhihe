@@ -27,12 +27,12 @@
 <td valign="top"  width="58%">
 
 #### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-  
+
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-  
+
 </td>
 <td valign="top"  width="42%">
-  
+
 #### ✏️ [Recent Blog](https://chegva.com)
 
 - [工程师应该怎么学习 - 2022-03-22](https://chegva.com/5195.html)
@@ -40,7 +40,7 @@
 - [Web前端学习资源分享 - 2022-03-17](https://chegva.com/5190.html)
 - [GoLand快捷键大全及实用技巧 - 2022-03-13](https://chegva.com/5183.html)
 - [快速初始化gin web项目 - 2022-03-12](https://chegva.com/5180.html)
-  
+
 </td>
 </tr>
 </table>
