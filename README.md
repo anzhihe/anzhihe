@@ -35,11 +35,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [Golang 编程思维和工程实战 - 2022-03-30](https://chegva.com/5079.html)
 - [45个 GIT 经典操作场景，专治不会合代码 - 2022-03-28](https://chegva.com/5198.html)
 - [40首唐诗名作，就是一部唐诗极简史 - 2022-03-26](https://chegva.com/4719.html)
 - [工程师应该怎么学习 - 2022-03-22](https://chegva.com/5195.html)
 - [世界500强常用的11个管理法则 - 2022-03-21](https://chegva.com/4678.html)
-- [Web前端学习资源分享 - 2022-03-17](https://chegva.com/5190.html)
 
 </td>
 </tr>
