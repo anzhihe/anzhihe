@@ -2,7 +2,7 @@
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: "00 09 * * *"
+    - cron: "00 12 * * *"
   watch:
     types: [started]
     
