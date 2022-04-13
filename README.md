@@ -35,11 +35,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [一个有趣的实验 —— 25号宇宙 - 2022-04-12](https://chegva.com/5221.html)
 - [Python进阶(8) — 多态 - 2022-04-10](https://chegva.com/5217.html)
 - [Python进阶(7) — 封装、继承、重写 - 2022-04-10](https://chegva.com/5216.html)
 - [打油诗其十二·涅槃 - 2022-04-09](https://chegva.com/5214.html)
 - [末日生存指南 - 2022-04-08](https://chegva.com/5211.html)
-- [代码高亮插件Prism.js添加收起展开功能 - 2022-04-06](https://chegva.com/5199.html)
 
 </td>
 </tr>
