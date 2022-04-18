@@ -35,11 +35,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [vscode生成vue模版 - 2022-04-17](https://chegva.com/5206.html)
 - [一个有趣的实验 —— 25号宇宙 - 2022-04-12](https://chegva.com/5221.html)
 - [Python进阶(8) — 多态 - 2022-04-10](https://chegva.com/5217.html)
 - [Python进阶(7) — 封装、继承、重写 - 2022-04-10](https://chegva.com/5216.html)
 - [打油诗其十二·涅槃 - 2022-04-09](https://chegva.com/5214.html)
-- [末日生存指南 - 2022-04-08](https://chegva.com/5211.html)
 
 </td>
 </tr>
