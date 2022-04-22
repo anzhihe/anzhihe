@@ -35,11 +35,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [唐朝百丈大智禅师二十条丛林要则 - 2022-04-22](https://chegva.com/5241.html)
 - [《大明王朝1566》之鬼畜系列 - 2022-04-19](https://chegva.com/5232.html)
 - [vscode生成vue模版 - 2022-04-17](https://chegva.com/5206.html)
 - [一个有趣的实验 —— 25号宇宙 - 2022-04-12](https://chegva.com/5221.html)
 - [Python进阶(8) — 多态 - 2022-04-10](https://chegva.com/5217.html)
-- [Python进阶(7) — 封装、继承、重写 - 2022-04-10](https://chegva.com/5216.html)
 
 </td>
 </tr>
