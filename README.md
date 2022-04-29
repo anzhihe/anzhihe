@@ -35,11 +35,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [加缪代表作:《局外人》&《鼠疫》 - 2022-04-28](https://chegva.com/5235.html)
 - [Python进阶(9)–MRO(方法解析顺序) - 2022-04-27](https://chegva.com/5218.html)
 - [【持续更新】周易《序卦传》详解 - 2022-04-23](https://chegva.com/5245.html)
 - [唐朝百丈大智禅师二十条丛林要则 - 2022-04-22](https://chegva.com/5241.html)
 - [《大明王朝1566》之鬼畜系列 - 2022-04-19](https://chegva.com/5232.html)
-- [vscode生成vue模版 - 2022-04-17](https://chegva.com/5206.html)
 
 </td>
 </tr>
