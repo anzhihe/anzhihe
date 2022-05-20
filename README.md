@@ -35,11 +35,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [飞书进入Debug模式 - 2022-05-19](https://chegva.com/5270.html)
 - [Go语言快速入门实战开发 - 2022-05-16](https://chegva.com/5202.html)
 - [Python操作xml打开pycharm项目 - 2022-05-12](https://chegva.com/5267.html)
 - [Vue使用antd样式穿透的问题 - 2022-05-06](https://chegva.com/5242.html)
 - [侠骨柔情，词中之龙 —— 辛弃疾 - 2022-05-02](https://chegva.com/5229.html)
-- [加缪代表作:《局外人》&《鼠疫》 - 2022-04-28](https://chegva.com/5235.html)
 
 </td>
 </tr>
