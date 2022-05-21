@@ -18,7 +18,7 @@
 **「Stay hungry，Stay foolish.」** ❤️
   </td>
   <td>
-    <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300" align="right">
+    <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="420" height="300" align="right">
   </td>
   </tr>
   </table>
