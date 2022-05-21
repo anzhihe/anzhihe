@@ -5,7 +5,7 @@
 
 <table border=0>
 <tr>
-<td valign="top"  width="50%">
+<td valign="top"  width="58%">
 
 - 🤖 I’m currently a SRE working in Beijing, China.
 - 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
