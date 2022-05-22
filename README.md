@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td  width="58%">
-
+  
 - 🤖 I’m currently a SRE working in Beijing, China.
 - 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
@@ -18,7 +18,7 @@
 **「Stay hungry，Stay foolish.」** ❤️
   </td>
   <td>
-    <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="420" height="300" align="right">
+    <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="420" height="300" valign="right">
   </td>
   </tr>
   </table>
@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td   width="58%">
+<td valign="top"   width="58%">
   
 ![](https://github-readme-stats.vercel.app/api?username=anzhihe)
     
