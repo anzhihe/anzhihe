@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anzhihe.anzhihe&left_color=gray&right_color=blue)
 
-<table>
+<table  border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td  width="58%">
   
@@ -22,11 +22,12 @@
   </td>
   </tr>
   </table>
+  
 <hr/>
 
 🏆 **my github stats:**
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top" width="58%">
   
