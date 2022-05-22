@@ -26,12 +26,9 @@
 
 🏆 **my github stats:**
 
-|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
-
 <table>
 <tr>
-<td valign="top"   width="58%">
+<td valign="top" width="58%">
   
 ![](https://github-readme-stats.vercel.app/api?username=anzhihe)
   
@@ -42,7 +39,7 @@
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 </td>
-<td valign="top"  width="42%">
+<td valign="top" width="42%">
   
 ![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)
 #### ✏️ [Recent Blog](https://chegva.com)
