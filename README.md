@@ -32,14 +32,17 @@
 <table>
 <tr>
 <td valign="top"  width="58%">
-
+  
+![](https://github-readme-stats.vercel.app/api?username=anzhihe)
+  
 #### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
 </td>
 <td valign="top"  width="42%">
-
+  
+![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)
 #### ✏️ [Recent Blog](https://chegva.com)
 
 - [飞书进入Debug模式 - 2022-05-19](https://chegva.com/5270.html)
