@@ -23,7 +23,6 @@
 </td>
 </tr>
 </table>
-<hr/>
 
 🏆 **my github stats:**
 
