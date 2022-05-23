@@ -19,7 +19,7 @@
 
 </td>
 <td width="42%">
-<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="200">
+<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="280">
 </td>
 </tr>
 </table>
