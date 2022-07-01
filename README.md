@@ -45,11 +45,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [Vue生命周期钩子 - 2022-06-30](https://chegva.com/5351.html)
 - [中国古代中央政治制度(一张图) - 2022-06-25](https://chegva.com/5349.html)
 - [Vue折腾记 - 2022-06-23](https://chegva.com/5348.html)
 - [Python进阶(14)—类对象的特殊方法(1) - 2022-06-20](https://chegva.com/5303.html)
 - [胖胖三连 - 2022-06-17](https://chegva.com/5346.html)
-- [Python进阶(13)—获取对象信息之特殊属性 - 2022-06-14](https://chegva.com/5288.html)
 
 </td>
 </tr>
