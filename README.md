@@ -45,11 +45,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [git常用操作命令alias简写 - 2022-07-17](https://chegva.com/5370.html)
+- [带你学Git - 2022-07-16](https://chegva.com/5366.html)
 - [Python进阶(17)—使用标准库中的模块 - 2022-07-13](https://chegva.com/5362.html)
 - [Python进阶(16)—类对象的特殊方法(3) - 2022-07-11](https://chegva.com/5307.html)
 - [打油诗其十三·轮回 - 2022-07-05](https://chegva.com/5226.html)
-- [Python进阶(15)—类对象的特殊方法(2) - 2022-07-02](https://chegva.com/5304.html)
-- [Vue生命周期钩子 - 2022-06-30](https://chegva.com/5351.html)
 
 </td>
 </tr>
