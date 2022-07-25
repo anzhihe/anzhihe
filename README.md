@@ -45,11 +45,11 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [历史为什么总是惊人的相似？ - 2022-07-24](https://chegva.com/5382.html)
 - [MySQL数据库三范式 - 2022-07-24](https://chegva.com/5384.html)
 - [RESTful API接口设计及前后端接口规范 - 2022-07-22](https://chegva.com/5381.html)
 - [Vue2中 Modal 对话框调用 FormModel 表单 - 2022-07-21](https://chegva.com/5379.html)
 - [《连山易》全文 - 2022-07-19](https://chegva.com/5371.html)
-- [git常用操作命令alias简写 - 2022-07-17](https://chegva.com/5370.html)
 
 </td>
 </tr>
