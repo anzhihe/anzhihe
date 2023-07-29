@@ -6,6 +6,7 @@
 <table>
 <tr>
 <td valign="top"  width="50%">
+
 - 🤖 I’m currently a SRE working in Beijing, China.
 - 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
@@ -33,11 +34,14 @@
 <table>
 <tr>
 <td valign="top"  width="50%">
-#### 🐍 contributions:
+
+#### 🐍 contributions
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 </td>
 <td valign="top"  width="50%">
-#### ✏️ [Recent Blog](https://chegva.com)
+
+#### 👉 [Recent Blog](https://chegva.com)
+
 {{ range $index, $item := $.Articles }}
 - [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
 {{- end}}
