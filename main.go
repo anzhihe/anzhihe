@@ -35,7 +35,7 @@ func main() {
 	}
 
 	err = tpl.Execute(f, map[string]interface{}{
-		"Articles": feed.Items[:1],
+		"Articles": feed.Items[:5],
 	})
 
 	if err != nil {
