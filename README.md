@@ -42,10 +42,11 @@
 
 #### 👉 [Recent Blog](https://chegva.com)
 
-- [Django Celery快速入门及使用 - 2023-07-27](https://chegva.com/5757.html)
-- [ES监视器 Watcher 使用 - 2023-07-19](https://chegva.com/5750.html)
-- [功能强大的程序调试器 gdb - 2023-07-12](https://chegva.com/5748.html)
-- [Mysql update语句使用子查询 - 2023-07-07](https://chegva.com/5744.html)
+
+- [Django Celery快速入门及使用 - 2023-07-26](https://chegva.com/5757.html)
+- [ES监视器 Watcher 使用 - 2023-07-18](https://chegva.com/5750.html)
+- [功能强大的程序调试器 gdb - 2023-07-11](https://chegva.com/5748.html)
+- [Mysql update语句使用子查询 - 2023-07-06](https://chegva.com/5744.html)
 - [Linux终端命令神器 Screen 使用 - 2023-07-05](https://chegva.com/5741.html)
 </td>
 </tr>
