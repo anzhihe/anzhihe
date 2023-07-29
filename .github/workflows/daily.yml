@@ -1,0 +1,36 @@
+# from：https://github.com/mohuishou/mohuishou/blob/main/.github/workflows/daily.yml
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: "00 12 * * *"
+  watch:
+    types: [started]
+    
+name: update
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.15
+        id: go
+      - uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Get dependencies
+        run: |
+          go get -v -t -d ./...
+      - run: go run main.go
+
+      - name: git setting
+        run: |
+          git config --global user.email "anzhihe@foxmail.com"
+          git config --global user.name "anzhihe"
+          
+      - name: update
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "feat: auto update by action"
+          git push
