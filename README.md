@@ -36,7 +36,7 @@
 <td valign="top"  width="50%">
 
 #### 🐍 contributions
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
 </td>
 <td valign="top"  width="50%">
 
