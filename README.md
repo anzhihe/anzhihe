@@ -43,11 +43,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Mysql主从、双主及主从同步1236错误 - 2023-08-20](https://chegva.com/5767.html)
 - [ES 机器加入集群报 handshake failed 错误解决办法 - 2023-08-18](https://chegva.com/5763.html)
 - [Win10 + Ubuntu20.04双系统安装 - 2023-08-06](https://chegva.com/5761.html)
 - [游戏里的无聊人生(5)——神兽岛 - 2023-08-02](https://chegva.com/5759.html)
 - [Django Celery快速入门及使用 - 2023-07-26](https://chegva.com/5757.html)
-- [ES监视器 Watcher 使用 - 2023-07-18](https://chegva.com/5750.html)
 </td>
 </tr>
 </table>
