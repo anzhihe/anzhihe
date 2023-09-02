@@ -43,11 +43,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [github仓库移除LFS - 2023-09-01](https://chegva.com/5780.html)
 - [布朗克斯的故事 A Bronx Tale (1993) - 2023-08-31](https://chegva.com/5776.html)
 - [SQL 之母 – 免费的闯关式 SQL 自学网 - 2023-08-28](https://chegva.com/5777.html)
 - [家庭常备药清单 - 2023-08-27](https://chegva.com/5772.html)
 - [Mysql主从、双主及主从同步1236错误 - 2023-08-20](https://chegva.com/5767.html)
-- [ES 机器加入集群报 handshake failed 错误解决办法 - 2023-08-18](https://chegva.com/5763.html)
 </td>
 </tr>
 </table>
