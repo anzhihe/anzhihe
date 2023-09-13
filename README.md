@@ -43,11 +43,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [CentOS、Ubuntu、Windows  NVIDIA 显卡驱动安装 - 2023-09-13](https://chegva.com/5791.html)
 - [大数据集群服务 CDH 启停顺序 - 2023-09-07](https://chegva.com/5781.html)
 - [github仓库移除LFS - 2023-09-01](https://chegva.com/5780.html)
 - [布朗克斯的故事 A Bronx Tale (1993) - 2023-08-31](https://chegva.com/5776.html)
 - [SQL 之母 – 免费的闯关式 SQL 自学网 - 2023-08-28](https://chegva.com/5777.html)
-- [家庭常备药清单 - 2023-08-27](https://chegva.com/5772.html)
 </td>
 </tr>
 </table>
