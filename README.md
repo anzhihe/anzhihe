@@ -43,11 +43,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [创业必备手册资料大全 - 2023-10-23](https://chegva.com/5805.html)
 - [打油诗其十五·硕鼠 - 2023-10-16](https://chegva.com/5803.html)
 - [Elasticsearch 原理进阶实战合集 - 2023-10-08](https://chegva.com/5802.html)
 - [服务器性能测试脚本汇总 - 2023-09-26](https://chegva.com/5800.html)
 - [那些年我们追过的 MySQL 规范 - 2023-09-18](https://chegva.com/5798.html)
-- [Mac m1系统连接wifi分配不到IP地址 - 2023-09-14](https://chegva.com/5794.html)
 </td>
 </tr>
 </table>
