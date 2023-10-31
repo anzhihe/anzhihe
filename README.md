@@ -43,11 +43,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Linux chage密码策略设置 - 2023-10-31](https://chegva.com/5814.html)
 - [常用Excel表格模板合集 - 2023-10-29](https://chegva.com/5813.html)
 - [Confluence 6.x Synchrony websocket error导致服务启动异常问题排查 - 2023-10-26](https://chegva.com/5809.html)
 - [创业必备手册资料大全 - 2023-10-23](https://chegva.com/5805.html)
 - [打油诗其十五·硕鼠 - 2023-10-16](https://chegva.com/5803.html)
-- [Elasticsearch 原理进阶实战合集 - 2023-10-08](https://chegva.com/5802.html)
 </td>
 </tr>
 </table>
