@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [技术ONCALL机制建设 - 2023-11-23](https://chegva.com/5852.html)
 - [Xtrabackup备份文件恢复 - 2023-11-19](https://chegva.com/5844.html)
 - [故障定级和定责 - 2023-11-17](https://chegva.com/5841.html)
 - [不同场景下 MySQL 的迁移方案 - 2023-11-06](https://chegva.com/5837.html)
 - [易中天经典语录 - 2023-11-05](https://chegva.com/5834.html)
-- [MySQL数据一致性监测修复、延迟监控 - 2023-11-04](https://chegva.com/5820.html)
 </td>
 </tr>
 </table>
