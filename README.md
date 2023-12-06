@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [python pycookiecheat库使用 - 2023-12-05](https://chegva.com/5868.html)
 - [又回家喽 - 2023-12-01](https://chegva.com/5865.html)
 - [​《七种武器》 - 2023-11-29](https://chegva.com/5858.html)
 - [macOS 升级node到指定版本 - 2023-11-28](https://chegva.com/5856.html)
 - [Google SRE 二十年的经验教训 - 2023-11-28](https://chegva.com/5854.html)
-- [技术ONCALL机制建设 - 2023-11-23](https://chegva.com/5852.html)
 </td>
 </tr>
 </table>
