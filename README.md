@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [《周髀算经》全文 - 2023-12-23](https://chegva.com/5876.html)
+- [易经研究系列著作集 - 2023-12-23](https://chegva.com/5875.html)
 - [了解文件大小及数据传输速度单位：bit、byte、KB、MB、Kb/s、KB/s、Mb/s、MB/s - 2023-12-21](https://chegva.com/5874.html)
 - [Linux auditd 审计工具使用 - 2023-12-15](https://chegva.com/5871.html)
 - [python pycookiecheat库使用 - 2023-12-05](https://chegva.com/5868.html)
-- [又回家喽 - 2023-12-01](https://chegva.com/5865.html)
-- [​《七种武器》 - 2023-11-29](https://chegva.com/5858.html)
 </td>
 </tr>
 </table>
