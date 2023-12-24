@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [大数据通用架构 - 2023-12-24](https://chegva.com/5885.html)
+- [大数据HDFS生产中常用操作命令 - 2023-12-24](https://chegva.com/5884.html)
 - [中国历朝代视频讲解 - 2023-12-23](https://chegva.com/5881.html)
 - [《周髀算经》全文 - 2023-12-23](https://chegva.com/5876.html)
 - [易经研究系列著作集 - 2023-12-23](https://chegva.com/5875.html)
-- [了解文件大小及数据传输速度单位：bit、byte、KB、MB、Kb/s、KB/s、Mb/s、MB/s - 2023-12-21](https://chegva.com/5874.html)
-- [Linux auditd 审计工具使用 - 2023-12-15](https://chegva.com/5871.html)
 </td>
 </tr>
 </table>
