@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Yearning 2.3.5升级 - 2024-01-03](https://chegva.com/5893.html)
 - [折腾2023 - 2023-12-31](https://chegva.com/5890.html)
 - [git stash常用命令 - 2023-12-29](https://chegva.com/5889.html)
 - [【持续更新】周易《文言传》详解 - 2023-12-24](https://chegva.com/5886.html)
 - [大数据通用架构 - 2023-12-24](https://chegva.com/5885.html)
-- [大数据HDFS生产中常用操作命令 - 2023-12-24](https://chegva.com/5884.html)
 </td>
 </tr>
 </table>
