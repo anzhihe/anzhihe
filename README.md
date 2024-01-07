@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Python脚本监控服务器进程上下行流量 - 2024-01-07](https://chegva.com/5903.html)
+- [Shell脚本调用iftop监控分析服务器进程外网流量 - 2024-01-07](https://chegva.com/5899.html)
 - [我的崽崽(26) - 2024-01-06](https://chegva.com/5895.html)
 - [Yearning 2.3.5升级 - 2024-01-03](https://chegva.com/5893.html)
 - [折腾2023 - 2023-12-31](https://chegva.com/5890.html)
-- [git stash常用命令 - 2023-12-29](https://chegva.com/5889.html)
-- [【持续更新】周易《文言传》详解 - 2023-12-24](https://chegva.com/5886.html)
 </td>
 </tr>
 </table>
