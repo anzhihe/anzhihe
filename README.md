@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [学习周易的步骤总结 - 2024-01-13](https://chegva.com/5908.html)
 - [ROS简介及在自动驾驶行业的应用 - 2024-01-12](https://chegva.com/5907.html)
 - [Python脚本监控服务器进程上下行流量 - 2024-01-07](https://chegva.com/5903.html)
 - [Shell脚本调用iftop监控分析服务器进程外网流量 - 2024-01-07](https://chegva.com/5899.html)
 - [我的崽崽(26) - 2024-01-06](https://chegva.com/5895.html)
-- [Yearning 2.3.5升级 - 2024-01-03](https://chegva.com/5893.html)
 </td>
 </tr>
 </table>
