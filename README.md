@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Kafka 生产中常用运维命令 - 2024-01-29](https://chegva.com/5904.html)
 - [Python 高性能异步框架 Sanic - 2024-01-24](https://chegva.com/5924.html)
 - [​FreeMind – 以大自然的声音为灵感，轻松创建专注或放松的音乐氛围 - 2024-01-24](https://chegva.com/5921.html)
 - [吾爱破解精华集2023 - 2024-01-24](https://chegva.com/5920.html)
 - [Python捕获异常时打印出错误所在行数 - 2024-01-23](https://chegva.com/5917.html)
-- [JWT实现refresh token与前端无感刷新 - 2024-01-21](https://chegva.com/5913.html)
 </td>
 </tr>
 </table>
