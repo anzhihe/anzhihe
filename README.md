@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Python调用socket模块获取路由器接口数据 - 2024-03-05](https://chegva.com/5955.html)
 - [所谓工作能力强，其实就是这五点 - 2024-02-28](https://chegva.com/5954.html)
 - [filebeat写入数据到kafka topic失败问题排查 - 2024-02-28](https://chegva.com/5953.html)
 - [运维自动化Agent与多租户平台建设 - 2024-02-23](https://chegva.com/5950.html)
 - [MySQL锁等待导致连接数被打满处理分析 - 2024-02-21](https://chegva.com/5947.html)
-- [香港大学推荐的50本经典书籍pdf & txt版 - 2024-02-03](https://chegva.com/5945.html)
 </td>
 </tr>
 </table>
