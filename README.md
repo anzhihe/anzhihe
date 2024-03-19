@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Python中那些简单又好用的特性和用法 - 2024-03-18](https://chegva.com/5983.html)
 - [20个简单实用的Python装饰器 - 2024-03-17](https://chegva.com/5975.html)
 - [Python高阶函数与装饰器 - 2024-03-17](https://chegva.com/5974.html)
 - [Makefile一键管理Python & GO项目 - 2024-03-13](https://chegva.com/5968.html)
 - [七龙珠 & 阿拉蕾合集 - 2024-03-09](https://chegva.com/5965.html)
-- [打油诗其十六·新造的人 - 2024-03-08](https://chegva.com/5962.html)
 </td>
 </tr>
 </table>
