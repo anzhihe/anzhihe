@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Shell脚本查询/统计/删除/按时间保存HDFS文件数据 - 2024-05-17](https://chegva.com/6050.html)
 - [MySQL生产全量&增量备份脚本 - 2024-05-10](https://chegva.com/6045.html)
 - [前后端JWT认证使用accessToken与refreshToken实现无感刷新 - 2024-05-09](https://chegva.com/6042.html)
 - [微前端框架实践 - 2024-04-26](https://chegva.com/6038.html)
 - [奇门遁甲三部曲：《奇门遁甲》《天师撞邪》《鬼马天师》 - 2024-04-20](https://chegva.com/6034.html)
-- [Docker特权权限与安全性实践 - 2024-04-18](https://chegva.com/6030.html)
 </td>
 </tr>
 </table>
