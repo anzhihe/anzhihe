@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [奥德彪语录 - 2024-05-27](https://chegva.com/6062.html)
 - [自动驾驶L0-L5等级划分及定义 - 2024-05-23](https://chegva.com/6056.html)
 - [一图看懂，等保三级与二级区别 - 2024-05-18](https://chegva.com/6052.html)
 - [Shell脚本查询/统计/删除/按时间保存HDFS文件数据 - 2024-05-17](https://chegva.com/6050.html)
 - [MySQL生产全量&增量备份脚本 - 2024-05-10](https://chegva.com/6045.html)
-- [前后端JWT认证使用accessToken与refreshToken实现无感刷新 - 2024-05-09](https://chegva.com/6042.html)
 </td>
 </tr>
 </table>
