@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [NPS服务端未授权访问控制台越权漏洞修复 - 2024-05-30](https://chegva.com/6068.html)
 - [K8s部署doris和keycloak - 2024-05-29](https://chegva.com/6063.html)
 - [奥德彪语录 - 2024-05-27](https://chegva.com/6062.html)
 - [自动驾驶L0-L5等级划分及定义 - 2024-05-23](https://chegva.com/6056.html)
 - [一图看懂，等保三级与二级区别 - 2024-05-18](https://chegva.com/6052.html)
-- [Shell脚本查询/统计/删除/按时间保存HDFS文件数据 - 2024-05-17](https://chegva.com/6050.html)
 </td>
 </tr>
 </table>
