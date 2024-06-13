@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [​易经总纲《易之雅》 - 2024-06-13](https://chegva.com/6080.html)
 - [ARM Ubuntu 20.04  安装Docker & Docker Compose - 2024-06-06](https://chegva.com/6078.html)
 - [育儿百科全书集合 - 2024-06-04](https://chegva.com/6075.html)
 - [电脑硬件工具箱及性能天梯排行版 - 2024-06-04](https://chegva.com/6073.html)
 - [NPS服务端未授权访问控制台越权漏洞修复 - 2024-05-30](https://chegva.com/6068.html)
-- [K8s部署doris和keycloak - 2024-05-29](https://chegva.com/6063.html)
 </td>
 </tr>
 </table>
