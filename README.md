@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Redis 集群节点不停服上下线操作 - 2024-07-05](https://chegva.com/6123.html)
 - [云原生CI/CD Tekton使用 - 2024-07-03](https://chegva.com/6118.html)
 - [Linux 提权-Docker 容器 - 2024-06-30](https://chegva.com/6114.html)
 - [使用top命令记录应用内存、CPU使用情况 - 2024-06-26](https://chegva.com/6109.html)
 - [k8s部署keycloak高可用集群及使用 - 2024-06-23](https://chegva.com/6099.html)
-- [安全面试题及经验集合 - 2024-06-22](https://chegva.com/6096.html)
 </td>
 </tr>
 </table>
