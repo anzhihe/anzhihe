@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [《归途》 - 2024-07-19](https://chegva.com/6152.html)
 - [自动驾驶系统架构及车路云一体化建设 - 2024-07-19](https://chegva.com/6144.html)
 - [K8S那些常见高频面试问题 - 2024-07-11](https://chegva.com/6131.html)
 - [Docker容器中使用Nvidia GPU - 2024-07-08](https://chegva.com/6126.html)
 - [Tcpdump 使用指南 - 2024-07-06](https://chegva.com/6125.html)
-- [Redis 集群节点不停服上下线操作 - 2024-07-05](https://chegva.com/6123.html)
 </td>
 </tr>
 </table>
