@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [ITSS体系介绍及与运维系列标准的关系 - 2024-07-26](https://chegva.com/6054.html)
 - [《归途》 - 2024-07-19](https://chegva.com/6152.html)
 - [自动驾驶系统架构及车路云一体化建设 - 2024-07-19](https://chegva.com/6144.html)
 - [K8S那些常见高频面试问题 - 2024-07-11](https://chegva.com/6131.html)
 - [Docker容器中使用Nvidia GPU - 2024-07-08](https://chegva.com/6126.html)
-- [Tcpdump 使用指南 - 2024-07-06](https://chegva.com/6125.html)
 </td>
 </tr>
 </table>
