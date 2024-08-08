@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Kubernetes的DNS服务CoreDNS和NodeLocalDNS - 2024-08-08](https://chegva.com/6170.html)
 - [Kubernetes 命令备忘清单 - 2024-08-07](https://chegva.com/6167.html)
 - [Shell脚本示例参考 - 2024-08-06](https://chegva.com/6166.html)
 - [Mac OS使用ip命令 - 2024-07-30](https://chegva.com/6161.html)
 - [ITSS体系介绍及与运维系列标准的关系 - 2024-07-26](https://chegva.com/6054.html)
-- [《归途》 - 2024-07-19](https://chegva.com/6152.html)
 </td>
 </tr>
 </table>
