@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [containerd 架构及CLI工具ctr、crictl 和 nerdctl操作命令 - 2024-08-11](https://chegva.com/6174.html)
 - [好用的IP工具箱 - 2024-08-10](https://chegva.com/6172.html)
 - [Kubernetes的DNS服务CoreDNS和NodeLocalDNS - 2024-08-08](https://chegva.com/6170.html)
 - [Kubernetes 命令备忘清单 - 2024-08-07](https://chegva.com/6167.html)
 - [Shell脚本示例参考 - 2024-08-06](https://chegva.com/6166.html)
-- [Mac OS使用ip命令 - 2024-07-30](https://chegva.com/6161.html)
 </td>
 </tr>
 </table>
