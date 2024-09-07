@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [ITSS运维服务能力成熟度等级 - 2024-09-07](https://chegva.com/6158.html)
 - [ethtool用法及命令详解 - 2024-08-27](https://chegva.com/6191.html)
 - [打油诗其十七·打工人 - 2024-08-26](https://chegva.com/6190.html)
 - [Docker 启动失败 no such device storage-driver=overlay2 - 2024-08-23](https://chegva.com/6188.html)
 - [ftp 常用命令 - 2024-08-16](https://chegva.com/6181.html)
-- [Linux LVM 逻辑卷管理和使用 - 2024-08-13](https://chegva.com/6177.html)
 </td>
 </tr>
 </table>
