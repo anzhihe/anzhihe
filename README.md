@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Linux Shell IP地址使用Sort排序统计 - 2024-11-12](https://chegva.com/6218.html)
 - [分布式事务及CAP和BASE理论 - 2024-10-28](https://chegva.com/6208.html)
 - [《论法的精神》《论美国的民主》和《常识》 - 2024-10-20](https://chegva.com/6205.html)
 - [Mac清歌五笔输入法 - 2024-09-29](https://chegva.com/6199.html)
 - [K8s 亲和性和反亲和性 - 2024-09-24](https://chegva.com/6195.html)
-- [ITSS运维服务能力成熟度等级 - 2024-09-07](https://chegva.com/6158.html)
 </td>
 </tr>
 </table>
