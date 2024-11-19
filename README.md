@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [kubectl patch pv 手动更新 PV 的容量信息 - 2024-11-18](https://chegva.com/6229.html)
 - [我的崽崽(28) - 2024-11-17](https://chegva.com/6226.html)
 - [我的崽崽(27) - 2024-11-17](https://chegva.com/6225.html)
 - [卫健委成人高尿酸血症、痛风与服胖食养指南（2024年版） - 2024-11-17](https://chegva.com/6221.html)
 - [Linux Shell IP地址使用Sort排序统计 - 2024-11-12](https://chegva.com/6218.html)
-- [分布式事务及CAP和BASE理论 - 2024-10-28](https://chegva.com/6208.html)
 </td>
 </tr>
 </table>
