@@ -42,7 +42,7 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
-- [Mac配置有线内网和无线Wi-Fi公网共同使用 - 2024-12-08](https://chegva.com/6238.html)
+- [Mac配置有线内网和无线Wi-Fi公网同时使用 - 2024-12-08](https://chegva.com/6238.html)
 - [柳永二十首经典诗词 - 2024-12-06](https://chegva.com/6239.html)
 - [SSH隧道原理及端口转发使用 - 2024-12-01](https://chegva.com/6236.html)
 - [k8s 污点(Taint) 和容忍度(Toleration)使用 - 2024-11-27](https://chegva.com/6232.html)
