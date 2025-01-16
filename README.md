@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [JVM GC 日志解读与分析（基础配置） - 2025-01-16](https://chegva.com/6251.html)
 - [Mac通用命令面板——快捷猫 (Shortcat) - 2025-01-10](https://chegva.com/6249.html)
 - [蛮子五杀 - 2025-01-03](https://chegva.com/6247.html)
 - [转折2024 - 2025-01-01](https://chegva.com/6246.html)
 - [Mac配置有线内网和无线Wi-Fi公网同时使用 - 2024-12-08](https://chegva.com/6238.html)
-- [柳永二十首经典诗词 - 2024-12-06](https://chegva.com/6239.html)
 </td>
 </tr>
 </table>
