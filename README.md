@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [特朗普总统就职演说（中英文） - 2025-01-22](https://chegva.com/6269.html)
 - [JVM Serial GC 、Parallel GC 日志解读与分析 - 2025-01-20](https://chegva.com/6252.html)
 - [JVM GC 日志解读与分析（基础配置） - 2025-01-16](https://chegva.com/6251.html)
 - [Mac通用命令面板——快捷猫 (Shortcat) - 2025-01-10](https://chegva.com/6249.html)
 - [蛮子五杀 - 2025-01-03](https://chegva.com/6247.html)
-- [转折2024 - 2025-01-01](https://chegva.com/6246.html)
 </td>
 </tr>
 </table>
