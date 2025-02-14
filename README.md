@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [JVM 相关的常见面试问题汇总 - 2025-02-14](https://chegva.com/6256.html)
 - [JVM GC 日志解读与分析（番外篇可视化工具） - 2025-02-10](https://chegva.com/6255.html)
 - [JVM G1 GC 日志解读与分析 - 2025-02-07](https://chegva.com/6254.html)
 - [JVM CMS GC 日志解读与分析 - 2025-01-24](https://chegva.com/6253.html)
 - [特朗普总统就职演说（中英文） - 2025-01-22](https://chegva.com/6269.html)
-- [JVM Serial GC 、Parallel GC 日志解读与分析 - 2025-01-20](https://chegva.com/6252.html)
 </td>
 </tr>
 </table>
