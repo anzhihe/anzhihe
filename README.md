@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [BeddyStories —— 全球经典精选儿童睡前故事库（0-12岁） - 2025-03-16](https://chegva.com/6312.html)
 - [k8s cordon和drain使用 - 2025-03-13](https://chegva.com/6300.html)
 - [高效学习(一)：端正学习态度 - 2025-03-10](https://chegva.com/6263.html)
 - [Linux系统下查看硬盘转速 - 2025-03-06](https://chegva.com/6297.html)
 - [程序员面试攻略(四)：实力才是王中王 - 2025-03-05](https://chegva.com/6261.html)
-- [K8s集群性能测试 - 2025-02-28](https://chegva.com/6299.html)
 </td>
 </tr>
 </table>
