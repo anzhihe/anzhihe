@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [简化kubectl常用命令 - 2025-03-20](https://chegva.com/6309.html)
 - [高效学习(二)：源头、原理和知识地图 - 2025-03-18](https://chegva.com/6265.html)
 - [BeddyStories —— 全球经典精选儿童睡前故事库（0-12岁） - 2025-03-16](https://chegva.com/6312.html)
 - [k8s cordon和drain使用 - 2025-03-13](https://chegva.com/6300.html)
 - [高效学习(一)：端正学习态度 - 2025-03-10](https://chegva.com/6263.html)
-- [Linux系统下查看硬盘转速 - 2025-03-06](https://chegva.com/6297.html)
 </td>
 </tr>
 </table>
