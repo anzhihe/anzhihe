@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Wireshark Cheat Sheet - 2025-04-02](https://chegva.com/6334.html)
 - [etcd性能问题排查及解决方案 - 2025-03-31](https://chegva.com/6317.html)
 - [高效学习(三)：深度，归纳和坚持实践 - 2025-03-28](https://chegva.com/6266.html)
 - [SAML2单点登陆接入流程分析 - 2025-03-25](https://chegva.com/6307.html)
 - [简化kubectl常用命令 - 2025-03-20](https://chegva.com/6309.html)
-- [高效学习(二)：源头、原理和知识地图 - 2025-03-18](https://chegva.com/6265.html)
 </td>
 </tr>
 </table>
