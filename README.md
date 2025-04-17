@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [高效学习(四)：如何学习和阅读代码 - 2025-04-17](https://chegva.com/6267.html)
 - [mac vscode cmd + click 代码不跳转 - 2025-04-14](https://chegva.com/6353.html)
 - [k8s修改etcd 2379端口 - 2025-04-09](https://chegva.com/6324.html)
 - [《路》 - 2025-04-06](https://chegva.com/6344.html)
 - [Wireshark Cheat Sheet - 2025-04-02](https://chegva.com/6334.html)
-- [etcd性能问题排查及解决方案 - 2025-03-31](https://chegva.com/6317.html)
 </td>
 </tr>
 </table>
