@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [MySQL sql_mode 参数配置详解 - 2025-05-06](https://chegva.com/6370.html)
 - [高效学习(五)：面对枯燥和量大的知识 - 2025-05-03](https://chegva.com/6268.html)
 - [我的崽崽(31) - 2025-05-02](https://chegva.com/6377.html)
 - [我的崽崽(30) - 2025-05-02](https://chegva.com/6376.html)
 - [我的崽崽(29) - 2025-05-02](https://chegva.com/6375.html)
-- [Tcpdump Cheat Sheet - 2025-04-29](https://chegva.com/6330.html)
 </td>
 </tr>
 </table>
