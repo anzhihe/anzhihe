@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [死亡诗社 Dead Poets Society (1989) - 2025-05-29](https://chegva.com/6401.html)
 - [k8s master join 时etcd证书报错问题 - 2025-05-26](https://chegva.com/6359.html)
 - [【持续更新】周易《大象传》详解 - 2025-05-22](https://chegva.com/6282.html)
 - [MacOS修改nameserver DNS服务器 - 2025-05-12](https://chegva.com/6388.html)
 - [LVM卷在线扩缩容及常用操作 - 2025-05-11](https://chegva.com/6365.html)
-- [TDSQL MySQL ERROR 1173 （42000）：This table type requires a primary key报错处理 - 2025-05-09](https://chegva.com/6371.html)
 </td>
 </tr>
 </table>
