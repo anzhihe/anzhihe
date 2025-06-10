@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [fdisk/parted创建与删除分区 - 2025-06-09](https://chegva.com/6374.html)
 - [从秦朝到清朝历代官制与军事体系图解合集 - 2025-06-02](https://chegva.com/6404.html)
 - [死亡诗社 Dead Poets Society (1989) - 2025-05-29](https://chegva.com/6401.html)
 - [k8s master join 时etcd证书报错问题 - 2025-05-26](https://chegva.com/6359.html)
 - [【持续更新】周易《大象传》详解 - 2025-05-22](https://chegva.com/6282.html)
-- [MacOS修改nameserver DNS服务器 - 2025-05-12](https://chegva.com/6388.html)
 </td>
 </tr>
 </table>
