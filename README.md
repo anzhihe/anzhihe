@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [故障处理最佳实践 - 2025-06-17](https://chegva.com/6277.html)
 - [《死亡诗社》经典台词 - 2025-06-14](https://chegva.com/6413.html)
 - [fdisk/parted创建与删除分区 - 2025-06-09](https://chegva.com/6374.html)
 - [从秦朝到清朝历代官制与军事体系图解合集 - 2025-06-02](https://chegva.com/6404.html)
 - [死亡诗社 Dead Poets Society (1989) - 2025-05-29](https://chegva.com/6401.html)
-- [k8s master join 时etcd证书报错问题 - 2025-05-26](https://chegva.com/6359.html)
 </td>
 </tr>
 </table>
