@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [高效沟通(一)：Talk和Code同等重要 - 2025-07-02](https://chegva.com/6271.html)
 - [kube-proxy iptables 和 ipvs 模式的工作原理及示例 - 2025-06-25](https://chegva.com/6343.html)
 - [绝地大逃杀 - 2025-06-22](https://chegva.com/6428.html)
 - [故障处理最佳实践 - 2025-06-17](https://chegva.com/6277.html)
 - [《死亡诗社》经典台词 - 2025-06-14](https://chegva.com/6413.html)
-- [fdisk/parted创建与删除分区 - 2025-06-09](https://chegva.com/6374.html)
 </td>
 </tr>
 </table>
