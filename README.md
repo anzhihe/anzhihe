@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [绝地大逃杀2.0之开心乐园 - 2025-07-19](https://chegva.com/6486.html)
 - [使用脚本、工具批量操作服务器做免密登录及修改密码 - 2025-07-17](https://chegva.com/6406.html)
 - [AI领域核心术语技术总览表 - 2025-07-10](https://chegva.com/6479.html)
 - [K8s集群etcd磁盘更换 - 2025-07-09](https://chegva.com/6408.html)
 - [高效沟通(一)：Talk和Code同等重要 - 2025-07-02](https://chegva.com/6271.html)
-- [kube-proxy iptables 和 ipvs 模式的工作原理及示例 - 2025-06-25](https://chegva.com/6343.html)
 </td>
 </tr>
 </table>
