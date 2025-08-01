@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Nginx正向代理 - 2025-07-31](https://chegva.com/6483.html)
 - [Linux、Mac和Win10查看文件MD5值 - 2025-07-26](https://chegva.com/6490.html)
 - [绝地大逃杀2.0之开心乐园 - 2025-07-19](https://chegva.com/6486.html)
 - [使用脚本、工具批量操作服务器做免密登录及修改密码 - 2025-07-17](https://chegva.com/6406.html)
 - [AI领域核心术语技术总览表 - 2025-07-10](https://chegva.com/6479.html)
-- [K8s集群etcd磁盘更换 - 2025-07-09](https://chegva.com/6408.html)
 </td>
 </tr>
 </table>
