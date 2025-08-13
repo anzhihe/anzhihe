@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [CORS跨域 Access-Control-Allow-Origin 响应头重复设置报错处理 - 2025-08-12](https://chegva.com/6494.html)
 - [高效沟通(二)：沟通阻碍和应对方法 - 2025-08-07](https://chegva.com/6272.html)
 - [Nginx正向代理 - 2025-07-31](https://chegva.com/6483.html)
 - [Linux、Mac和Win10查看文件MD5值 - 2025-07-26](https://chegva.com/6490.html)
 - [绝地大逃杀2.0之开心乐园 - 2025-07-19](https://chegva.com/6486.html)
-- [使用脚本、工具批量操作服务器做免密登录及修改密码 - 2025-07-17](https://chegva.com/6406.html)
 </td>
 </tr>
 </table>
