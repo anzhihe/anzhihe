@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [高效沟通(三)：沟通方式及技巧 - 2025-11-21](https://chegva.com/6273.html)
 - [大语言模型级别划分及使用场景 - 2025-11-12](https://chegva.com/6554.html)
 - [MySQL迁移至达梦数据库全攻略 - 2025-11-08](https://chegva.com/6544.html)
 - [达梦数据库角色与权限最佳实践 - 2025-10-27](https://chegva.com/6541.html)
 - [DM达梦数据库登陆方式及日常运维命令 - 2025-10-19](https://chegva.com/6538.html)
-- [WordPress自动更新缓存功能的归档页面制作 - 2025-10-13](https://chegva.com/6518.html)
 </td>
 </tr>
 </table>
