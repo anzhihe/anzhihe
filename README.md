@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Docker部署bge-m3/bge-reranker模型 - 2025-12-22](https://chegva.com/6572.html)
 - [英伟达算力GPU主要型号及参数 - 2025-12-12](https://chegva.com/6558.html)
 - [常用AI模型介绍及多模型组合使用场景 - 2025-12-07](https://chegva.com/6570.html)
 - [NVIDIA GPU架构演进及使用场景 - 2025-11-30](https://chegva.com/6564.html)
 - [英伟达GPU参数速查表 - 2025-11-29](https://chegva.com/6562.html)
-- [高效沟通(三)：沟通方式及技巧 - 2025-11-21](https://chegva.com/6273.html)
 </td>
 </tr>
 </table>
