@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [奔波2025 - 2025-12-31](https://chegva.com/6596.html)
 - [《道心》 - 2025-12-29](https://chegva.com/6578.html)
 - [多个模型复用同一张GPU卡方案 - 2025-12-25](https://chegva.com/6573.html)
 - [Docker部署bge-m3/bge-reranker模型 - 2025-12-22](https://chegva.com/6572.html)
 - [英伟达算力GPU主要型号及参数 - 2025-12-12](https://chegva.com/6558.html)
-- [常用AI模型介绍及多模型组合使用场景 - 2025-12-07](https://chegva.com/6570.html)
 </td>
 </tr>
 </table>
