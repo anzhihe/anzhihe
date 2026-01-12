@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [K8s HPA原理及最佳实践 - 2026-01-12](https://chegva.com/6520.html)
 - [vLLM 部署Qwen2.5 LLM & VLM 大模型 - 2026-01-05](https://chegva.com/6585.html)
 - [奔波2025 - 2025-12-31](https://chegva.com/6596.html)
 - [《道心》 - 2025-12-29](https://chegva.com/6578.html)
 - [多个模型复用同一张GPU卡方案 - 2025-12-25](https://chegva.com/6573.html)
-- [Docker部署bge-m3/bge-reranker模型 - 2025-12-22](https://chegva.com/6572.html)
 </td>
 </tr>
 </table>
