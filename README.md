@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [易经六十四卦Unicode符号表 - 2026-01-30](https://chegva.com/6491.html)
 - [从0开始学微服务 - 2026-01-21](https://chegva.com/6547.html)
 - [用通俗的方式介绍大语言模型训练过程 - 2026-01-18](https://chegva.com/6603.html)
 - [JMeter混合场景压测 - 2026-01-13](https://chegva.com/6599.html)
 - [K8s HPA原理及最佳实践 - 2026-01-12](https://chegva.com/6520.html)
-- [vLLM 部署Qwen2.5 LLM & VLM 大模型 - 2026-01-05](https://chegva.com/6585.html)
 </td>
 </tr>
 </table>
