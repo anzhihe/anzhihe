@@ -42,11 +42,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [nvidia-smi工具详解及使用示例 - 2026-02-11](https://chegva.com/6622.html)
 - [Kubernetes PV数据卷缩容方案及统计PV容量 - 2026-02-06](https://chegva.com/6556.html)
 - [易经六十四卦Unicode符号表 - 2026-01-30](https://chegva.com/6491.html)
 - [从0开始学微服务 - 2026-01-21](https://chegva.com/6547.html)
 - [用通俗的方式介绍大语言模型训练过程 - 2026-01-18](https://chegva.com/6603.html)
-- [JMeter混合场景压测 - 2026-01-13](https://chegva.com/6599.html)
 </td>
 </tr>
 </table>
