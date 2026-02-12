@@ -26,7 +26,7 @@
 
 🏆 **my github stats:**
 
-|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
+|![](https://github-readme-stats-eight-theta.vercel.app/api?username=anzhihe&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)|![Anzhihe's Most used languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anzhihe&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)|
 |-|-|
 
 
