@@ -22,8 +22,6 @@
 </tr>
 </table>
 
-<hr/>
-
 🏆 **my github stats:**
 
 <table>
