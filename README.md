@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [大模型GPU显存算力需求计算 - 2026-03-03](https://chegva.com/6623.html)
 - [《盐铁论》全文 - 2026-02-25](https://chegva.com/6632.html)
 - [nvidia-smi工具详解及使用示例 - 2026-02-11](https://chegva.com/6622.html)
 - [Kubernetes PV数据卷缩容方案及统计PV容量 - 2026-02-06](https://chegva.com/6556.html)
 - [易经六十四卦Unicode符号表 - 2026-01-30](https://chegva.com/6491.html)
-- [从0开始学微服务 - 2026-01-21](https://chegva.com/6547.html)
 </td>
 </tr>
 </table>
