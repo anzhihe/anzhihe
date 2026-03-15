@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [《坏男孩联盟》《黑岩男孩》与《银泰杜梅拉》 - 2026-03-14](https://chegva.com/6685.html)
 - [macOS安装龙虾OpenClaw - 2026-03-10](https://chegva.com/6676.html)
 - [大模型推理资源需求计算及使用场景示例 - 2026-03-09](https://chegva.com/6627.html)
 - [大模型GPU显存算力需求计算 - 2026-03-03](https://chegva.com/6623.html)
 - [《盐铁论》全文 - 2026-02-25](https://chegva.com/6632.html)
-- [nvidia-smi工具详解及使用示例 - 2026-02-11](https://chegva.com/6622.html)
 </td>
 </tr>
 </table>
