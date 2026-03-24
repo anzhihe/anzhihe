@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [生成式AI、机器学习课程学习 - 2026-03-24](https://chegva.com/6686.html)
 - [大模型并发场景GPU显存资源计算 - 2026-03-20](https://chegva.com/6628.html)
 - [《坏男孩联盟》《黑岩男孩》与《银泰杜梅拉》 - 2026-03-14](https://chegva.com/6685.html)
 - [macOS安装龙虾OpenClaw - 2026-03-10](https://chegva.com/6676.html)
 - [大模型推理资源需求计算及使用场景示例 - 2026-03-09](https://chegva.com/6627.html)
-- [大模型GPU显存算力需求计算 - 2026-03-03](https://chegva.com/6623.html)
 </td>
 </tr>
 </table>
