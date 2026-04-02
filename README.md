@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Mac Chrome浏览器开启同步功能本地书签被覆盖恢复 - 2026-04-01](https://chegva.com/6700.html)
 - [Linux上df和du统计磁盘占用大小差异分析 - 2026-03-26](https://chegva.com/6509.html)
 - [生成式AI、机器学习课程学习 - 2026-03-24](https://chegva.com/6686.html)
 - [大模型并发场景GPU显存资源计算 - 2026-03-20](https://chegva.com/6628.html)
 - [《坏男孩联盟》《黑岩男孩》与《银泰杜梅拉》 - 2026-03-14](https://chegva.com/6685.html)
-- [macOS安装龙虾OpenClaw - 2026-03-10](https://chegva.com/6676.html)
 </td>
 </tr>
 </table>
