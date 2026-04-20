@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [Hermes Agent 使用指南 - 2026-04-19](https://chegva.com/6704.html)
 - [轻量级网络代理转发神器 socat 使用详解 - 2026-04-13](https://chegva.com/6618.html)
 - [高效沟通(四)：沟通技术 - 2026-04-08](https://chegva.com/6274.html)
 - [Mac Chrome浏览器开启同步功能本地书签被覆盖恢复 - 2026-04-01](https://chegva.com/6700.html)
 - [Linux上df和du统计磁盘占用大小差异分析 - 2026-03-26](https://chegva.com/6509.html)
-- [生成式AI、机器学习课程学习 - 2026-03-24](https://chegva.com/6686.html)
 </td>
 </tr>
 </table>
