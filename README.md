@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [达梦数据库备份详解 - 2026-04-28](https://chegva.com/6699.html)
 - [大模型 Temperature 与 Top_p/Top_k 参数详解 - 2026-04-21](https://chegva.com/6710.html)
 - [Hermes Agent 使用指南 - 2026-04-19](https://chegva.com/6704.html)
 - [轻量级网络代理转发神器 socat 使用详解 - 2026-04-13](https://chegva.com/6618.html)
 - [高效沟通(四)：沟通技术 - 2026-04-08](https://chegva.com/6274.html)
-- [Mac Chrome浏览器开启同步功能本地书签被覆盖恢复 - 2026-04-01](https://chegva.com/6700.html)
 </td>
 </tr>
 </table>
