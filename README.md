@@ -47,11 +47,11 @@
 #### 👉 [Recent Blog](https://chegva.com)
 
 
+- [多路径磁盘使用场景 - 2026-05-14](https://chegva.com/6592.html)
 - [vLLM集成Ray分布式推理模型部署实战 - 2026-05-05](https://chegva.com/6691.html)
 - [达梦数据库备份详解 - 2026-04-28](https://chegva.com/6699.html)
 - [大模型 Temperature 与 Top_p/Top_k 参数详解 - 2026-04-21](https://chegva.com/6710.html)
 - [Hermes Agent 使用指南 - 2026-04-19](https://chegva.com/6704.html)
-- [轻量级网络代理转发神器 socat 使用详解 - 2026-04-13](https://chegva.com/6618.html)
 </td>
 </tr>
 </table>
