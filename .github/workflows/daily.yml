@@ -2,7 +2,7 @@
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: "*/5 * * * *"
+    - cron: "18 */12 * * *"
   # allows to manually run the job at any time
   workflow_dispatch:
   watch:
